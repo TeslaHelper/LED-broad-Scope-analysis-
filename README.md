@@ -125,4 +125,4 @@ plots_dir = r"path\to\plots"
 - **Error Handling**: Scripts include basic error checking (e.g., NaN removal, invalid power values). Review console output for warnings.
 
 ## Contact
-For questions or issues, please contact **[your email or preferred contact method]**.
+For questions or issues, please contact **Amir.fathabadi79@gmail.com**.
