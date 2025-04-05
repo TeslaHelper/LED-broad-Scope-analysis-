@@ -1,4 +1,4 @@
-# LED Spectral Power Distribution (SPD) Analysis
+# LED Broad-Scope Analysis
 
 ## Overview
 This project processes and analyzes Spectral Power Distribution (SPD) data for various LED samples and a solar reference spectrum. The datasets include wavelength-specific intensity measurements for multiple LED sources and a reference solar spectrum. Three Python scripts are provided to restructure, normalize, and analyze the data, ensuring consistency and enabling comparative analysis. The final output includes normalized SPD datasets and analysis results such as color metrics and plots.
